@@ -13,7 +13,7 @@ What is working
 |  ROM |NAND FLASH 128M(N)|
 | Ether|B546512e,B50612e/d(Y)|
 
-# How to run prebuilt firmware-----------------------------------------------------------------
+# How to run prebuilt firmware---------------------
 
 you will need to replace uboot.bin+system.bit+u-boot.img unzipped from braiins-os after u use rufus to write the OpenWrt firmware to sd card 
 
