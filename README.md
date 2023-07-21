@@ -5,7 +5,7 @@ A repository trying to make ant miner T9/T9+/S9 run OpenWrt
 
 T9/T9+/S9 control board has very similar layout 
 
-What is working
+# What is working
 | Part | Detail        |
 |-----:|---------------|
 |  CORE|XC7Z010        (Y)|
