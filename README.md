@@ -35,6 +35,6 @@ What is working
 |  ROM |NAND FLASH 128M(N)|
 | Ether|B546512e,B50612e/d(Y)|
 
-
+![github-small](https://cdn.discordapp.com/attachments/857047152684564523/1131909660031590470/FB_IMG_1685144491590.jpg)
 
 
