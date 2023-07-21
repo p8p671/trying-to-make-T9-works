@@ -13,7 +13,7 @@ What is working
 |  ROM |NAND FLASH 128M(N)|
 | Ether|B546512e,B50612e/d(Y)|
 
-# How to run prebuilt firmware---------------------
+# How to run prebuilt firmware
 
 you will need to replace uboot.bin+system.bit+u-boot.img unzipped from braiins-os after u use rufus to write the OpenWrt firmware to sd card 
 
@@ -27,7 +27,7 @@ DEBUG TTL baudrate=115200
 
 
 
-STORY
+# STORY
 
 Back in 2020 I accidentally received some broken Ant Miner t9+, A ASIC Miner got ZYNQ XC7Z010 init, and I want them to have some extra usage for so hard!! So I was thinking about OpenWrt. but the advanced firmware structure of ZYNQ beat me (I only had Android building experience back then). QAQ
 2023 after 2.5 years, I saw a news on my smartphone it was about OpenWrt .this made me recall 
