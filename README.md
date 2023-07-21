@@ -3,7 +3,7 @@ A repository trying to make ant miner T9/T9+/S9 run OpenWrt
 ![github-small](https://cdn.discordapp.com/attachments/857047152684564523/1131909660031590470/FB_IMG_1685144491590.jpg)	
 2023/5/27 works!! internet phy ok!!
 
-T9/T9+/S9 control board has very similar layout 
+T9/T9+/S9 control board has very similar layout .Which the firmware can be compatible!
 
 # What is working
 | Part | Detail        |
