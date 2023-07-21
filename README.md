@@ -1,7 +1,10 @@
 # T9/T9+/S9-works-NOW
 A repository trying to make ant miner T9/T9+/S9 run OpenWrt
+
 2023/5/27 works!! internet phy ok!!
+
 T9/T9+/S9 control board has very similar layout 
+
 you will need to replace uboot.bin+system.bit+u-boot.img unzipped from braiins-os after u use rufus to write the OpenWrt firmware to sd card 
 
 braiins-os:https://drive.google.com/drive/folders/1HSWCoHGiV81ASeOtdmrZhL9fIG85YdeR
